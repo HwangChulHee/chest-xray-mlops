@@ -1,7 +1,7 @@
 [project]
 name = "chest-xray-mlops"
 version = "0.1.0"
-description = "Add your description here"
+description = "NIH ChestX-ray14 multi-label classification MLOps portfolio project"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
